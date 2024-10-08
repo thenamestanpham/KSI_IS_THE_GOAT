@@ -5,6 +5,7 @@ html {
 }
 img{
   width: 200px;
+  border-radius: 50px;
 }
 body{
   text-align: center;
